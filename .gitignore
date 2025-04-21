@@ -1,0 +1,4 @@
+.venv_nba/
+__pycache__/
+*.pyc
+bbref_test.py
